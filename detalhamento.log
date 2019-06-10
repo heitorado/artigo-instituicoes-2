@@ -1,0 +1,67 @@
+# Logfile created on 2019-06-09 23:43:20 -0300 by logger.rb/61378
+I, [2019-06-09T23:45:10.996498 #12290]  INFO -- : Correspondencia Encontrada. Detalhes:
+I, [2019-06-09T23:45:10.996947 #12290]  INFO -- : Ano: 2015
+I, [2019-06-09T23:45:10.997079 #12290]  INFO -- : Deputado: DANIEL COELHO
+I, [2019-06-09T23:45:10.997177 #12290]  INFO -- : PL: https://dadosabertos.camara.leg.br/api/v2/proposicoes/1028972
+I, [2019-06-09T23:45:10.997267 #12290]  INFO -- : Enviado para Comissão: CMADS
+I, [2019-06-09T23:45:10.997346 #12290]  INFO -- : ============================================================================================
+I, [2019-06-09T23:45:30.342319 #12290]  INFO -- : Correspondencia Encontrada. Detalhes:
+I, [2019-06-09T23:45:30.342503 #12290]  INFO -- : Ano: 2017
+I, [2019-06-09T23:45:30.342574 #12290]  INFO -- : Deputado: DANILO CABRAL
+I, [2019-06-09T23:45:30.342640 #12290]  INFO -- : PL: https://dadosabertos.camara.leg.br/api/v2/proposicoes/2139552
+I, [2019-06-09T23:45:30.342706 #12290]  INFO -- : Enviado para Comissão: CCJC
+I, [2019-06-09T23:45:30.342756 #12290]  INFO -- : ============================================================================================
+I, [2019-06-09T23:45:30.798072 #12290]  INFO -- : Correspondencia Encontrada. Detalhes:
+I, [2019-06-09T23:45:30.798177 #12290]  INFO -- : Ano: 2017
+I, [2019-06-09T23:45:30.798209 #12290]  INFO -- : Deputado: DANILO CABRAL
+I, [2019-06-09T23:45:30.798234 #12290]  INFO -- : PL: https://dadosabertos.camara.leg.br/api/v2/proposicoes/2139553
+I, [2019-06-09T23:45:30.798256 #12290]  INFO -- : Enviado para Comissão: CCJC
+I, [2019-06-09T23:45:30.798277 #12290]  INFO -- : ============================================================================================
+I, [2019-06-09T23:45:52.041777 #12290]  INFO -- : Correspondencia Encontrada. Detalhes:
+I, [2019-06-09T23:45:52.041975 #12290]  INFO -- : Ano: 2017
+I, [2019-06-09T23:45:52.042048 #12290]  INFO -- : Deputado: FELIPE CARRERAS
+I, [2019-06-09T23:45:52.042101 #12290]  INFO -- : PL: https://dadosabertos.camara.leg.br/api/v2/proposicoes/2122658
+I, [2019-06-09T23:45:52.042150 #12290]  INFO -- : Enviado para Comissão: CTUR
+I, [2019-06-09T23:45:52.042520 #12290]  INFO -- : ============================================================================================
+I, [2019-06-09T23:45:54.908279 #12290]  INFO -- : Correspondencia Encontrada. Detalhes:
+I, [2019-06-09T23:45:54.908513 #12290]  INFO -- : Ano: 2017
+I, [2019-06-09T23:45:54.908615 #12290]  INFO -- : Deputado: FELIPE CARRERAS
+I, [2019-06-09T23:45:54.908726 #12290]  INFO -- : PL: https://dadosabertos.camara.leg.br/api/v2/proposicoes/2122663
+I, [2019-06-09T23:45:54.908791 #12290]  INFO -- : Enviado para Comissão: CESPO
+I, [2019-06-09T23:45:54.908839 #12290]  INFO -- : ============================================================================================
+I, [2019-06-09T23:45:55.324647 #12290]  INFO -- : Correspondencia Encontrada. Detalhes:
+I, [2019-06-09T23:45:55.324746 #12290]  INFO -- : Ano: 2017
+I, [2019-06-09T23:45:55.324796 #12290]  INFO -- : Deputado: FELIPE CARRERAS
+I, [2019-06-09T23:45:55.324841 #12290]  INFO -- : PL: https://dadosabertos.camara.leg.br/api/v2/proposicoes/2157960
+I, [2019-06-09T23:45:55.324884 #12290]  INFO -- : Enviado para Comissão: CESPO
+I, [2019-06-09T23:45:55.324926 #12290]  INFO -- : ============================================================================================
+I, [2019-06-09T23:49:50.779392 #12290]  INFO -- : Correspondencia Encontrada. Detalhes:
+I, [2019-06-09T23:49:50.779478 #12290]  INFO -- : Ano: 2017
+I, [2019-06-09T23:49:50.779508 #12290]  INFO -- : Deputado: PASTOR EURICO
+I, [2019-06-09T23:49:50.779532 #12290]  INFO -- : PL: https://dadosabertos.camara.leg.br/api/v2/proposicoes/2144687
+I, [2019-06-09T23:49:50.779553 #12290]  INFO -- : Enviado para Comissão: CSPCCO
+I, [2019-06-09T23:49:50.779571 #12290]  INFO -- : ============================================================================================
+I, [2019-06-09T23:49:51.349295 #12290]  INFO -- : Correspondencia Encontrada. Detalhes:
+I, [2019-06-09T23:49:51.349497 #12290]  INFO -- : Ano: 2017
+I, [2019-06-09T23:49:51.349688 #12290]  INFO -- : Deputado: PASTOR EURICO
+I, [2019-06-09T23:49:51.349758 #12290]  INFO -- : PL: https://dadosabertos.camara.leg.br/api/v2/proposicoes/2144688
+I, [2019-06-09T23:49:51.349843 #12290]  INFO -- : Enviado para Comissão: CREDN
+I, [2019-06-09T23:49:51.349908 #12290]  INFO -- : ============================================================================================
+I, [2019-06-09T23:49:52.588219 #12290]  INFO -- : Correspondencia Encontrada. Detalhes:
+I, [2019-06-09T23:49:52.588465 #12290]  INFO -- : Ano: 2017
+I, [2019-06-09T23:49:52.588553 #12290]  INFO -- : Deputado: PASTOR EURICO
+I, [2019-06-09T23:49:52.588719 #12290]  INFO -- : PL: https://dadosabertos.camara.leg.br/api/v2/proposicoes/2145257
+I, [2019-06-09T23:49:52.588775 #12290]  INFO -- : Enviado para Comissão: CCJC
+I, [2019-06-09T23:49:52.588822 #12290]  INFO -- : ============================================================================================
+I, [2019-06-09T23:50:52.210637 #12290]  INFO -- : Correspondencia Encontrada. Detalhes:
+I, [2019-06-09T23:50:52.210818 #12290]  INFO -- : Ano: 2015
+I, [2019-06-09T23:50:52.210976 #12290]  INFO -- : Deputado: SILVIO COSTA
+I, [2019-06-09T23:50:52.211040 #12290]  INFO -- : PL: https://dadosabertos.camara.leg.br/api/v2/proposicoes/1504395
+I, [2019-06-09T23:50:52.211444 #12290]  INFO -- : Enviado para Comissão: CTASP
+I, [2019-06-09T23:50:52.211502 #12290]  INFO -- : ============================================================================================
+I, [2019-06-09T23:51:17.396521 #12290]  INFO -- : Correspondencia Encontrada. Detalhes:
+I, [2019-06-09T23:51:17.396611 #12290]  INFO -- : Ano: 2017
+I, [2019-06-09T23:51:17.396643 #12290]  INFO -- : Deputado: TADEU ALENCAR
+I, [2019-06-09T23:51:17.396671 #12290]  INFO -- : PL: https://dadosabertos.camara.leg.br/api/v2/proposicoes/2139928
+I, [2019-06-09T23:51:17.396697 #12290]  INFO -- : Enviado para Comissão: CCJC
+I, [2019-06-09T23:51:17.396717 #12290]  INFO -- : ============================================================================================

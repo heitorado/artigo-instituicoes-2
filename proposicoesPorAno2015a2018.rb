@@ -1,5 +1,8 @@
 require 'rest-client'
 require 'json'
+require 'logger'
+
+logger = Logger.new("detalhamento.log")
 
 API_URL = "https://dadosabertos.camara.leg.br/api/v2"
 
@@ -108,6 +111,12 @@ deputadosArray.each do |dept|
 
             if(siglasComissoesArray.include? prop_detalhada['statusProposicao']['siglaOrgao'])
                 dept_prop_count += 1
+                logger.info("Correspondencia Encontrada. Detalhes:")
+                logger.info("Ano: #{ano}")
+                logger.info("Deputado: #{dept['nome']}")
+                logger.info("PL: #{API_URL}/proposicoes/#{prop['id']}")
+                logger.info("Enviado para Comissão: #{prop_detalhada['statusProposicao']['siglaOrgao']}")
+                logger.info("============================================================================================")
             end
         end
 
@@ -115,5 +124,5 @@ deputadosArray.each do |dept|
         dept_prop_count = 0
     end
 
-    puts "#{dept_info_hash['nome']}, #{dept_info_hash['prop15']}, #{dept_info_hash['prop16']}, #{dept_info_hash['prop18']}, #{dept_info_hash['prop18']}"
+    puts "#{dept_info_hash['nome']}, #{dept_info_hash['prop15']}, #{dept_info_hash['prop16']}, #{dept_info_hash['prop17']}, #{dept_info_hash['prop18']}"
 end
